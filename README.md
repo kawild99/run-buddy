@@ -12,3 +12,5 @@ https://kawild99.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️ by Katie Wilder
+
+### ©️2019 Run Buddy, Inc
